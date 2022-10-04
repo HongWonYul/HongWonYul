@@ -1,5 +1,5 @@
 # 💫 About Me
-<br>- 🌱 I’m currently learning **Java**<br><br>- 💬 Ask me about **Python and Discord.py/Nextcord**<br><br>- 📫 Mail **wonyul@joseon.space**
+<br>- 🌱 I’m currently learning **Java**<br><br>- 💬 Ask me about **Python and Discord.py / Nextcord**<br><br>- 📫 Mail **wonyul@joseon.space**
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HongWonYul&theme=onedark&no-frame=true&margin-w=4&column=-1)
