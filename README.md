@@ -1,4 +1,10 @@
 # 💫 About Me
+
+```
+I can't code because I have to study during the current midterm exam. :( 
+See you again on December 17th
+```
+
 <br>- 🌱 I’m currently learning **Java**<br><br>- 💬 Ask me about **Python and Discord.py / Nextcord**<br><br>- 📫 Mail **wonyul@joseon.space**
 
 # 🏆 GitHub Trophies
