@@ -1,9 +1,7 @@
 [![Header Image](media/header.png)](https://github.com/SuhJae)
 
-<div style="text-align:center;">
-<h1>JaeWoong Suh 🇰🇷</h1>
-<h3>The developer of morning calm.</h3>
-</div>
+# JaeWoong Suh 🇰🇷
+The developer of morning calm.
 
 ---
 
@@ -22,22 +20,22 @@ This only includes projects that are currently live. For more projects, please v
 my [portfolio]("https://suhjae.dev") and [GitHub](https://github.com/SuhJae). Also it does not include projects that I
 worked on for other people.
 
-**[Joseon Space LUMA]("https://luma.joseon.space")** - 2024
+> **[Joseon Space LUMA]("https://luma.joseon.space")** - 2024
 
 A web application that provides a overview of Joseon dynasty's palaces (Gyeongbokgung, Changdeokgung, Changgyeonggung,
 Deoksugung), and Jongmyo. Also provides a netural language search engine and autocomplete.
 
-**[Suhjae.dev]("https://suhjae.dev")** - 2023
+> **[Suhjae.dev]("https://suhjae.dev")** - 2023
 
 A personal website of me, made to be a place were I can share my notes on the AP computer science course to my friends.
 Also provides a blog and a portfolio.
 
-**[Gung Gung You You]("https://gung.joseon.space")** - 2023
+> **[Gung Gung You You]("https://gung.joseon.space")** - 2023
 
 A web application that provides all events and notices coming from the palaces of Joseon dynasty. Also provides a
 netural language search engine and autocomplete and macine translation.
 
-**[Joseon Space]("https://joseon.space")** - 2021
+> **[Joseon Space]("https://joseon.space")** - 2021
 
 The main website of Joseon Space project. Provides a overview of Joseon Space project and its subprojects. The oldest
 project of Joseon Space project.
