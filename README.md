@@ -12,9 +12,7 @@ science** and **Korea's rich culture and history**.
 
 ## Live Projects 🚀
 
-<div style="text-align:center;">
 <img src="media/projects.png" height="300"  alt="Screen with product of Joseon Space"/>
-</div>
 
 This only includes projects that are currently live. For more projects, please visit
 my [portfolio]("https://suhjae.dev") and [GitHub](https://github.com/SuhJae). Also it does not include projects that I
