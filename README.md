@@ -1,6 +1,7 @@
 [![Header Image](media/header.png)](https://github.com/SuhJae)
 
 # JaeWoong Suh 🇰🇷
+
 The developer of morning calm.
 
 ---
@@ -12,7 +13,7 @@ science** and **Korea's rich culture and history**.
 
 ## Live Projects 🚀
 
-<img src="media/projects.png" height="500"  alt="Screen with product of Joseon Space"/>
+<img src="media/projects.png" height="450"  alt="Screen with product of Joseon Space"/>
 
 This only includes projects that are currently live. For more projects, please visit
 my [portfolio]("https://suhjae.dev") and [GitHub](https://github.com/SuhJae). Also it does not include projects that I
@@ -21,24 +22,28 @@ worked on for other people.
 **[Joseon Space LUMA]("https://luma.joseon.space")** - 2024
 
 > A web application that provides a overview of Joseon dynasty's palaces (Gyeongbokgung, Changdeokgung, Changgyeonggung,
-Deoksugung), and Jongmyo. Also provides a netural language search engine and autocomplete.
+> Deoksugung), and Jongmyo. Also provides a netural language search engine and autocomplete.
 
 **[Suhjae.dev]("https://suhjae.dev")** - 2023
 
-> A personal website of me, made to be a place were I can share my notes on the AP computer science course to my friends.
-Also provides a blog and a portfolio.
+> A personal website of me, made to be a place were I can share my notes on the AP computer science course to my
+> friends.
+> Also provides a blog and a portfolio.
 
 **[Gung Gung You You]("https://gung.joseon.space")** - 2023
 
 > A web application that provides all events and notices coming from the palaces of Joseon dynasty. Also provides a
-netural language search engine and autocomplete and macine translation.
+> netural language search engine and autocomplete and macine translation.
 
 **[Joseon Space]("https://joseon.space")** - 2021
 
 > The main website of Joseon Space project. Provides a overview of Joseon Space project and its subprojects. The oldest
-project of Joseon Space project.
+> project of Joseon Space project.
 
 ## Tech Stack 💻
+
+<details>
+<summary>Click to expand!</summary>
 
 ### Languages
 
@@ -61,6 +66,7 @@ project of Joseon Space project.
 ### Databases
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+</details>
 
 ## GitHub Trophies 🏆
 
