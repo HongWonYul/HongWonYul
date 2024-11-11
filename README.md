@@ -1,10 +1,8 @@
-[![Header Image](media/header.png)](https://github.com/SuhJae)
+[![Header Image](media/header.jpg)](https://github.com/SuhJae)
 
 # JaeWoong Suh 🇰🇷
 
-The developer of morning calm.
-
----
+_The developer of morning calm._
 
 ## About Me 👋
 
@@ -13,29 +11,34 @@ science** and **Korea's rich culture and history**.
 
 ## Live Projects 🚀
 
-<img src="media/projects.png" height="450"  alt="Screen with product of Joseon Space"/>
+<img src="media/projects.png" alt="Screen with product of Joseon Space"/>
 
-This only includes projects that are currently live. For more projects, please visit
-my [portfolio]("https://suhjae.dev") and [GitHub](https://github.com/SuhJae). Also it does not include projects that I
-worked on for other people.
+For more info, please visit my [website](https://suhjae.dev) and [GitHub](https://github.com/SuhJae). Also it does not include projects that I worked on for other people.
 
-**[Joseon Space LUMA]("https://luma.joseon.space")** - 2024
+[**BlueScript**](https://bluescript.app/) - 2024
+
+> BlueScript is a non-profit organization that develops free and open-source tools to help dyslexic individuals. Serving 13k+ monthly active users with 6 partner institutions.
+
+[**Joseon Space LUMA**](https://github.com/SuhJae/luma) - 2024
 
 > A web application that provides a overview of Joseon dynasty's palaces (Gyeongbokgung, Changdeokgung, Changgyeonggung,
 > Deoksugung), and Jongmyo. Also provides a netural language search engine and autocomplete.
 
-**[Suhjae.dev]("https://suhjae.dev")** - 2023
+_Currently in [compleate rewrite](https://SuhJae/neo-luma) to use Nuxt.js and Vite.
+Expected to be released in december 2024._
 
-> A personal website of me, made to be a place were I can share my notes on the AP computer science course to my
-> friends.
-> Also provides a blog and a portfolio.
+[**SuhJae's Atheneum**](https://blog.suhjae.dev) - 2023
 
-**[Gung Gung You You]("https://gung.joseon.space")** - 2023
+> A personal blog of me, made to be a place were I can share my notes on the AP computer science course to my friends.
+
+**[Gung Gung You You](https://engung.joseon.space)** - 2023
 
 > A web application that provides all events and notices coming from the palaces of Joseon dynasty. Also provides a
 > netural language search engine and autocomplete and macine translation.
 
-**[Joseon Space]("https://joseon.space")** - 2021
+_Deprecated as Korean government has updated their [official website](https://royal.khs.go.kr/), implimenting a similar features and design in 2024._
+
+**[Joseon Space](https://joseon.space)** - 2021
 
 > The main website of Joseon Space project. Provides a overview of Joseon Space project and its subprojects. The oldest
 > project of Joseon Space project.
@@ -66,6 +69,7 @@ worked on for other people.
 ### Databases
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </details>
 
 ## GitHub Trophies 🏆
