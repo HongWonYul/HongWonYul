@@ -24,7 +24,7 @@ For more info, please visit my [website](https://suhjae.dev) and [GitHub](https:
 > A web application that provides a overview of Joseon dynasty's palaces (Gyeongbokgung, Changdeokgung, Changgyeonggung,
 > Deoksugung), and Jongmyo. Also provides a netural language search engine and autocomplete.
 
-_Currently in [compleate rewrite](https://github.com/SuhJae/neo-luma) to use Nuxt.js and Vite.
+_Currently in [compleate rewrite](https://github.com/joseon-sp/luma) [(search demo)](https://luma.joseon.space/)to use Nuxt.js and Vite.
 Expected to be released in december 2024._
 
 [**SuhJae's Atheneum**](https://blog.suhjae.dev) - 2023
